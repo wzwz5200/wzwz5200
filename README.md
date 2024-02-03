@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://88866677.xyz"><img src="114035863_p0.png" alt="Banner"></a>
+  <a href="https://88866677.xyz"><img src="113074533_p0_master1200.jpg" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://88866677.xyz">W Z</a>!</h1>
