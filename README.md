@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm <a href="https://88866677.xyz">W Z</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-[![GitHub Card](https://githubcard.com/wzwz5200.svg)
-](https://githubcard.com/wzwz5200.svg?d=kFVrLsI4)
+![GitHub Card](https://githubcard.com/wzwz5200.svg?d=kFVrLsI4)
+
 <p align="center">
 
 </p>
