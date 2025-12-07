@@ -8,7 +8,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <img src="https://githubcard.com/wzwz5200.svg?d=kFVrLsI4" alt="GitHub Card">
+  <img src="https://githubcard.com/wzwz5200.svg?d=kfQte5LS" alt="GitHub Card">
 </p>
 
 <p align="center">❤❤.</p>
