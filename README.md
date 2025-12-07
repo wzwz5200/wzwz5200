@@ -6,7 +6,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 
-![GitHub Card](https://githubcard.com/wzwz5200.svg)
+![GitHub Card](https://githubcard.com/wzwz5200.svg?d=kFVrLsI4)
 
 <p align="center">
 
